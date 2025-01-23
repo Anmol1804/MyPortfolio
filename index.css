@@ -232,3 +232,27 @@ p {
   .blog-entry .meta > div a {
     font-size: 15px;
     color: #8c8c8c; }
+
+
+/* nav */
+.language-switcher a {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px; 
+  margin: 0 5px;
+}
+
+.language-switcher span {
+  margin: 0 5px;
+  color: #999;
+}
+
+/* body {
+  overflow-x: hidden;
+  margin: 0;
+} */
+
+.navbar {
+  padding: 8px 20px;
+}
+
